@@ -1,0 +1,17 @@
+[33mcommit 9c9c34dbd466ba740685f867be5653b9b8111790[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Maltsev Alexander <outputmoney071@gmail.com>
+Date:   Thu Oct 12 19:18:22 2023 +0300
+
+    Создание main + Переменная balance
+
+[33mcommit cede65fff74e275369450effcfc87d94849a5359[m
+Author: Maltsev Alexander <outputmoney071@gmail.com>
+Date:   Thu Oct 12 19:14:51 2023 +0300
+
+    Создание структуры клиент
+
+[33mcommit c2f10e6ffe429a2ee6f2528465d9cd82f7ea37fb[m
+Author: Maltsev Alexander <outputmoney071@gmail.com>
+Date:   Thu Oct 12 19:12:33 2023 +0300
+
+    Создание стр-цы Банк счета
